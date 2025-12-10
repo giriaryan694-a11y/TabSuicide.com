@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>💀 TabSuicide.com</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>💀 TabSuicide.com</h1>
+        <p class="tagline">How will your tab die today?</p>
+        <p class="credit">Made by <strong>Aryan Giri</strong></p>
+
+        <div class="crash-buttons">
+            <button onclick="crashWithMemory()">💣 Memory Overload</button>
+            <button onclick="crashWithDOM()">🌊 DOM Tsunami</button>
+            <button onclick="crashWithWASM()">⚡ WASM Nuke</button>
+            <button onclick="resetTab()">🔄 Resurrect Tab</button>
+        </div>
+
+        <div class="theme-toggle">
+            <button onclick="toggleTheme()">🌓 Toggle Dark Mode</button>
+        </div>
+
+        <div class="warning">
+            ⚠️ Warning: These buttons <strong>WILL</strong> crash your tab. ⚠️
+        </div>
+
+        <div class="scoreboard">
+            <h2>🏆 Suicide Leaderboard</h2>
+            <p>Which method kills your tab fastest?</p>
+            <ul id="scores">
+                <li>💣 Memory Overload: ⏳ Testing...</li>
+                <li>🌊 DOM Tsunami: ⏳ Testing...</li>
+                <li>⚡ WASM Nuke: ⏳ Testing...</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
