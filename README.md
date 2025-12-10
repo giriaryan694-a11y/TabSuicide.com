@@ -40,6 +40,6 @@ TabSuicide is a **chaotic, experimental webpage** designed to **crash your brows
 
 ## 🎯 Why Does This Exist?
 
- • **For fun! (Because why not?)**
- • **To test browser limits** (How much abuse can a tab handle?)
- • **Educational purposes** (Learn how browsers handle crashes).
+ - **For fun! (Because why not?)**
+ - **To test browser limits** (How much abuse can a tab handle?)
+ - **Educational purposes** (Learn how browsers handle crashes).
