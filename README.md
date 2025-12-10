@@ -21,7 +21,7 @@ TabSuicide is a **chaotic, experimental webpage** designed to **crash your brows
 - **Dark/Light Mode** (Because even chaos deserves style).
 - **Scoreboard** (Track which method kills your tab fastest).
 - **"Resurrect Tab" Button** (Quickly reload if you regret your life choices).
-- **Made by [Aryan Giri](https://github.com/[your-username])** (Blame him for your suffering).
+- **Made by [Aryan Giri](https://github.com/giriaryan694-a11y/)** (Blame him for your suffering).
 
 ---
 
