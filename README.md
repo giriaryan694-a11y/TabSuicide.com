@@ -3,7 +3,7 @@
 **How fast can you kill your browser tab?**
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://giriaryan694-a11y.github.io/TabSuicide.com/)
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ---
 
 ## **🔥 What is TabSuicide?**
@@ -50,3 +50,5 @@ TabSuicide is a **chaotic, experimental webpage** designed to **crash your brows
 - **The author is not responsible** for lost work, rage quits, or existential crises caused by this tool.
 - **Use responsibly.**
 
+## 📜 License
+This project is licensed under the **Apache License 2.0.**
