@@ -1,1 +1,42 @@
-# TabSuicide.com
+# 💀 TabSuicide.com
+
+**How fast can you kill your browser tab?**
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://[your-username].github.io/TabSuicide/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## **🔥 What is TabSuicide?**
+TabSuicide is a **chaotic, experimental webpage** designed to **crash your browser tab** in creative and destructive ways. It’s a **playground for testing browser limits**—how fast can you make Chrome scream **"Aw, Snap!"** or Firefox whisper **"Gah. Your tab just crashed."**?
+
+**⚠️ Warning:** This tool **WILL** crash your tab. Use at your own risk!
+
+---
+
+## **💣 Features**
+- **Multiple Crash Methods:**
+  - **💣 Memory Overload** (Flood your RAM with garbage data).
+  - **🌊 DOM Tsunami** (Recursively drown the page in elements).
+  - **⚡ WASM Nuke** (Unleash an infinite loop in WebAssembly).
+- **Dark/Light Mode** (Because even chaos deserves style).
+- **Scoreboard** (Track which method kills your tab fastest).
+- **"Resurrect Tab" Button** (Quickly reload if you regret your life choices).
+- **Made by [Aryan Giri](https://github.com/[your-username])** (Blame him for your suffering).
+
+---
+
+## **🛠 How to Use**
+1. **Visit the site:** [TabSuicide.com](https://[your-username].github.io/TabSuicide/)
+2. **Pick your poison:** Click any of the crash buttons.
+3. **Watch the chaos unfold:** Your tab will freeze, crash, or beg for mercy.
+4. **Laugh maniacally** (optional but encouraged).
+
+---
+
+## **📌 Technical Details**
+- **No Backend:** Pure **HTML, CSS, and JavaScript**.
+- **Hosted on GitHub Pages:** Free, easy, and no servers required.
+- **Works on:** Chrome, Firefox, Edge, and Brave (sorry, Safari is too stable).
+
+## 🎯 Why Does This Exist?
