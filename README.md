@@ -2,8 +2,7 @@
 
 **How fast can you kill your browser tab?**
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://[your-username].github.io/TabSuicide/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://giriaryan694-a11y.github.io/TabSuicide.com/)
 
 ---
 
@@ -27,7 +26,7 @@ TabSuicide is a **chaotic, experimental webpage** designed to **crash your brows
 ---
 
 ## **🛠 How to Use**
-1. **Visit the site:** [TabSuicide.com](https://[your-username].github.io/TabSuicide/)
+1. **Visit the site:** [TabSuicide.com](https://giriaryan694-a11y.github.io/TabSuicide.com/)
 2. **Pick your poison:** Click any of the crash buttons.
 3. **Watch the chaos unfold:** Your tab will freeze, crash, or beg for mercy.
 4. **Laugh maniacally** (optional but encouraged).
