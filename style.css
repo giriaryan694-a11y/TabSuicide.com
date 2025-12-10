@@ -1,0 +1,95 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #0a0a0a;
+    color: #e0e0e0;
+    transition: all 0.3s;
+}
+
+body.light {
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #ff3333;
+    font-size: 3em;
+}
+
+.tagline {
+    font-size: 1.2em;
+    color: #ff6666;
+}
+
+.credit {
+    font-style: italic;
+    color: #aaaaaa;
+    margin-bottom: 30px;
+}
+
+.crash-buttons button {
+    padding: 12px 24px;
+    margin: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #ff3333;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.2s;
+}
+
+.crash-buttons button:hover {
+    background-color: #cc0000;
+}
+
+.theme-toggle button {
+    margin-top: 20px;
+    padding: 8px 16px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.warning {
+    margin: 20px 0;
+    color: #ffcc00;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.scoreboard {
+    margin-top: 30px;
+    text-align: left;
+    background-color: #1e1e1e;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#scores {
+    list-style-type: none;
+    padding: 0;
+}
+
+#scores li {
+    padding: 8px;
+    background-color: #2a2a2a;
+    margin: 5px 0;
+    border-radius: 5px;
+    border-left: 3px solid #ff3333;
+}
+
+.light #scores li {
+    background-color: #e0e0e0;
+    color: #333;
+    border-left: 3px solid #ff3333;
+}
