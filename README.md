@@ -45,3 +45,8 @@ TabSuicide is a **chaotic, experimental webpage** designed to **crash your brows
  - **Educational purposes** (Learn how browsers handle crashes).
  - **To annoy your friends** (Send them the link and watch them suffer).
 
+## 💀 Disclaimer
+- **Do not use this on important tabs.** (Seriously.)
+- **The author is not responsible** for lost work, rage quits, or existential crises caused by this tool.
+- **Use responsibly.**
+
